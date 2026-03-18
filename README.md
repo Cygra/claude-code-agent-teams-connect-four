@@ -1,6 +1,6 @@
 # Claude Code Agent Teams Connect Four
 
-Let teammates in Claude Code Agent temas play Connect Four with each other.
+Let teammates in Claude Code Agent teams play Connect Four with each other.
 
 I think it could be a great idea to let the teammates play with each other so I made this.
 
