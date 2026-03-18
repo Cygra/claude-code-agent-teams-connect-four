@@ -22,3 +22,6 @@ Let them play with each other.
 
 <img width="2244" height="1332" alt="image" src="https://github.com/user-attachments/assets/d1367d96-76e6-443a-9a39-4758a96bd75b" />
 
+---
+
+***related*** https://github.com/Cygra/claude-code-agent-teams-tic-tac-toe
