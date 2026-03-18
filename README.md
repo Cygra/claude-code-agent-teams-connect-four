@@ -4,11 +4,17 @@ Let teammates in Claude Code Agent temas play Connect Four with each other.
 
 I think it could be a great idea to let the teammates play with each other so I made this.
 
-What is Connect Four?
+***Quick Start***
+
+```
+git clone https://github.com/Cygra/claude-code-agent-teams-connect-four.git ~/.claude/skills/connect-four
+```
+
+***What is Connect Four?*** 
 
 https://en.wikipedia.org/wiki/Connect_Four
 
-What is Claude Code agent teams?
+***What is Claude Code agent teams?***
 
 https://code.claude.com/docs/en/agent-teams
 
