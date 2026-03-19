@@ -10,6 +10,8 @@ I think it could be a great idea to let the teammates play with each other so I 
 git clone https://github.com/Cygra/claude-code-agent-teams-connect-four.git ~/.claude/skills/connect-four
 ```
 
+Trigger it with something like "play Connect Four" or any request in any language to play a game of Connect Four.
+
 ***What is Connect Four?*** 
 
 https://en.wikipedia.org/wiki/Connect_Four
